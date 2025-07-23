@@ -42,3 +42,5 @@ uvicorn api:app --host 0.0.0.0 --port 8000 --reload
 go to 
 
 http://localhost:8000/docs
+
+![](api-create_borrower_borrowers__post.png)
